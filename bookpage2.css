@@ -1,0 +1,51 @@
+*{
+	margin:0;
+	padding:0;
+}
+.profile_subscription{
+
+	margin-left:300px;
+	padding-top: 90px;
+	
+	
+}
+.profile_info{
+	position: absolute;
+	padding-left: 20px;
+	padding-top: 40px;
+	background-color: lightblue;
+	width: 250px;
+	height: 618px;
+
+}
+
+.profile_data{
+	padding: 5px;
+	border-bottom: 1px solid white;
+	width: 220px;
+}
+.card{
+	padding: 20px;
+	border: 1px solid lightblue;
+	width:200px;
+	text-align: center;
+	margin-left:10px;
+}
+table{
+	border-collapse:collapse;
+	table-layout:fixed;
+	margin-top: 20px;
+	margin-left: 20px;
+	
+}
+table th{
+	text-align:left;
+	padding:10px;
+	background-color:lightblue;
+	border: 1px solid black;
+}
+table td{
+	text-align:center;
+	padding:10px; 
+	border: 1px solid black;
+}

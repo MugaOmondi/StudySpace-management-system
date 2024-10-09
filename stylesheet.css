@@ -1,0 +1,59 @@
+*{
+	margin:0;
+	padding0;
+}
+
+.account_part{
+	width: 200px;
+	margin-left: 200px;
+}
+.account_part input{
+	border-radius: 5px;
+	height: 25px;
+	width: 300px;
+	border-style:none;
+	border: 1px solid green;
+}
+.action_submit input{
+	border-radius: 5px;
+	height: 25px;
+	border-style:none;
+	background-color: green;
+	margin-left: 200px;
+	margin-top: 10px;
+	color:white;
+	padding:5px;
+}
+.basic_info{
+	position: absolute;
+}
+.advanced_info{
+	margin-left: 620px;	
+	padding-top: 10px;
+}
+.course_part{
+	width: 200px;
+}
+.course_part input{
+	border-radius: 5px;
+	height: 25px;
+	width: 300px;
+	border-style:none;
+	border: 1px solid green;
+}
+
+.course_part select{
+	margin-top: 10px;
+	border-radius: 5px;
+	height: 25px;
+	width: 300px;
+	border-style:none;
+	border: 1px solid green;
+}
+.course_part a{
+	text-decoration: none;
+	color: green;
+}
+.course_part p{
+	padding-top: 7px;
+}
